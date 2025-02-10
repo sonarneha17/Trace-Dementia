@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "TraceDementia",
+    "slug": "TraceDementia",
+    "version": "1.0.0",
+    "entryPoint": "./index.js",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+
+"android":{
+  "package": "tothepointcode.tracedementia",
+  "adaptiveIcon":{
+    "forgroundImage": "./assets/dementia(font-and-bg).png",
+    "backgroundColor": "darkmagneta"
+  }
+},
+
+  "name": "TraceDementia"
+}
